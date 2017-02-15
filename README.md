@@ -14,3 +14,4 @@
 7. Disabled the submit button to prevent users from continually clicking it while waiting for the results.
 8. Added a loading spinner to display while the word count is going on to show that something is going on.
 9. Display an error if the URL is bad or unreachable
+10. Created a custom Angular directive to display the frequency distribution chart using javascript and D3.
